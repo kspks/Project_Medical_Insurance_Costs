@@ -1,7 +1,7 @@
 # Project Medical Insurance Costs
 The project "U.S. Medical Insurance Costs" suggested by Codeacademia during the Data Scientist (2021 version) Course. 
 
-Developer: Kseniia Pustozerova
+Developer: Ksenia Pustozerova
 
 **Overview**
 ---------------
